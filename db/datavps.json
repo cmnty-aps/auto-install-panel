@@ -1,0 +1,92 @@
+{
+  "524945261": {
+    "hostname": "garansi",
+    "dropletId": 524945261,
+    "ip": "165.22.53.26",
+    "spec": "Ram 16GB Core 4",
+    "os": "Ubuntu 24.04 LTS",
+    "region": "🇸🇬 Singapore",
+    "password": "29gox6nmvl",
+    "owner": 8224141460
+  },
+  "524948056": {
+    "hostname": "garansi",
+    "dropletId": 524948056,
+    "ip": "206.189.39.52",
+    "spec": "Ram 8GB Core 4",
+    "os": "Ubuntu 24.04 LTS",
+    "region": "🇸🇬 Singapore",
+    "password": "7aoiuw3tff",
+    "owner": 8224141460
+  },
+  "524979271": {
+    "hostname": "garansi",
+    "dropletId": 524979271,
+    "ip": "174.138.31.114",
+    "spec": "Ram 8GB Core 4",
+    "os": "Ubuntu 24.04 LTS",
+    "region": "🇸🇬 Singapore",
+    "password": "p8epmwpszi",
+    "owner": 8224141460
+  },
+  "525085282": {
+    "hostname": "garansi",
+    "dropletId": 525085282,
+    "ip": "146.190.85.58",
+    "spec": "Ram 16GB Core 4",
+    "os": "Ubuntu 24.04 LTS",
+    "region": "🇸🇬 Singapore",
+    "password": "oapj165cm8",
+    "owner": 8224141460
+  },
+  "525100964": {
+    "hostname": "buyernael",
+    "dropletId": 525100964,
+    "ip": "68.183.181.249",
+    "spec": "Ram 8GB Core 4",
+    "os": "Ubuntu 24.04 LTS",
+    "region": "🇸🇬 Singapore",
+    "password": "waotxiw3qi",
+    "owner": 8224141460
+  },
+  "525464789": {
+    "hostname": "admin",
+    "dropletId": 525464789,
+    "ip": "188.166.253.133",
+    "spec": "Ram 4GB Core 2",
+    "os": "Ubuntu 24.04 LTS",
+    "region": "🇸🇬 Singapore",
+    "password": "mer5k0d8yd",
+    "owner": 8224141460
+  },
+  "526371164": {
+    "hostname": "buyernael",
+    "dropletId": 526371164,
+    "ip": "167.172.87.2",
+    "spec": "Ram 16GB Core 4",
+    "os": "Ubuntu 24.04 LTS",
+    "region": "🇸🇬 Singapore",
+    "password": "ilm0sfkc9k",
+    "owner": 8224141460
+  },
+  "526521302": {
+    "hostname": "buyernael",
+    "dropletId": 526521302,
+    "ip": "188.166.215.11",
+    "spec": "Ram 4GB Core 2",
+    "os": "Ubuntu 24.04 LTS",
+    "region": "🇸🇬 Singapore",
+    "password": "b95nmeh2qy",
+    "owner": 8224141460
+  },
+  "527379668": {
+    "hostname": "hamtzy",
+    "dropletId": 527379668,
+    "ip": "174.138.16.107",
+    "spec": "Ram 4GB Core 2",
+    "os": "Ubuntu 24.04 LTS",
+    "region": "🇸🇬 Singapore",
+    "password": "xwlpyoxfbc",
+    "owner": 8224141460
+  }
+}

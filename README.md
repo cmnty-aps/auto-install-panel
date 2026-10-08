@@ -1,2 +1,0 @@
-# auto-install-panel
-Update 
