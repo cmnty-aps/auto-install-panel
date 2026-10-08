@@ -4,38 +4,49 @@
   "description": "Naeri bot for Controlling VPS with Panel Hosting",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js"
+    "start": "next start",
+    "dev": "next dev",
+    "build": "next build"
   },
   "author": "naeldev",
   "license": "ISC",
   "dependencies": {
     "adm-zip": "^0.5.12",
-    "axios": "^1.5.0",
     "archiver": "^7.0.1",
+    "autoprefixer": "^10.6.1",
+    "axios": "^1.5.0",
+    "bcrypt": "^5.1.1",
     "canvas": "^3.1.0",
     "chalk": "^4.1.2",
     "crypto": "^1.0.1",
     "crypto-random-string": "^3.3.1",
     "file-type": "^18.0.0",
     "form-data": "^4.0.0",
-	"fs-extra": "^11.2.0",
-	"js-confuser": "latest",
+    "fs-extra": "^11.2.0",
+    "js-confuser": "latest",
+    "lucide-react": "^1.53.0",
+    "luxon": "^3.0.0",
     "mysql2": "^3.10.0",
-    "bcrypt": "^5.1.1",
+    "next": "^16.4.0",
     "node-fetch": "^2.6.12",
+    "node-schedule": "^2.1.1",
     "node-ssh": "^13.2.1",
     "node-telegram-bot-api": "latest",
-    "node-schedule": "^2.1.1",
-    "luxon": "^3.0.0",
     "pino": "^9.6.0",
+    "postcss": "^8.5.29",
     "qrcode": "^1.5.3",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
     "ssh2": "^1.16.0",
+    "tailwindcss": "^3.4.19",
     "unzipper": "^0.10.14",
     "uuid": "^9.0.1",
-	"webcrack": "^2.15.0"
+    "webcrack": "^2.15.0"
   },
   "devDependencies": {
-    "nodemon": "^3.1.10"
+    "@types/node": "26.6.4",
+    "@types/react": "19.3.0",
+    "nodemon": "^3.1.10",
+    "typescript": "7.0.2"
   }
 }
